@@ -15,3 +15,11 @@ bory{
   background-color: #2a475e;
  color: #d7d7d7;
 }
+.promoCard {
+  width: 200px;
+  transition: transform 0.2s;
+ background: linea;
+}
+.promoCard:hover{
+  transform: scale(1.01);
+}
